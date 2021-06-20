@@ -1,6 +1,4 @@
 import axios from "axios";
-import { DEFAULT_SCHEMA } from "js-yaml";
-import { deleteDatabase } from "workbox-core/_private";
 
 const URL = "https://covid19.mathdro.id/api";
 
