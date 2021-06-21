@@ -2,7 +2,7 @@
 
 Website Link: https://covid19-adparekh.netlify.app
 
-The COVID-19 Tracker is an online web application that tracks current COVID-19 data using React.js and the Mathdro Covid API. This website vizualizes the current COVID-19 data in terms of line charts and bar charts. The website provides the latest total covid data for each country.
+The COVID-19 Tracker is an online web application that tracks current COVID-19 data using React.js and the Mathdro Covid API. This website vizualizes the current COVID-19 data in terms of line charts and bar charts. The website provides the latest total covid data for about 180 countries and also provides the global data trends since January 2020.
 
 ## About
 
