@@ -1,1 +1,1 @@
-Website Link: https://covid19-tracker-adparekh.netlify.com
+Website Link: https://covid19-adparekh.netlify.app
