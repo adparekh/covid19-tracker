@@ -29,10 +29,18 @@ class App extends React.Component {
         <Cards data={data} />
         <CountryPicker handleCountryChange={this.handleCountryChange} />
         <Chart data={data} country={country} />
-        <div className={styles.footer}>
-          <p>Made By Aditya Parekh using React.js Framework</p>
+        <div>
+          <p className={styles.footer}>
+            Made By Aditya Parekh using the React.js Framework.
+          </p>
           <p className={styles.smaller}>
-            You can find the code here (ADD ANCHOR TAG)
+            <a
+              href="https://github.com/adparekh/covid19-tracker"
+              target="_blank"
+              rel="noreferrer"
+            >
+              You can find the code here
+            </a>
           </p>
         </div>
       </div>
